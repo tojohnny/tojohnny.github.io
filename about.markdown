@@ -3,16 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+Welcome to my personal website.
+This site is solely owned and operated by me, Johnny.
+Every piece of content here reflects my personal character, values, and experiences.
+My goal is to provide a space that authentically represents who I am while sharing insights, projects, and ideas that matter to me.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+All opinions expressed are my own and do not necessarily reflect the views of any employer, organization, or affiliate.
+The content presented here is for informational purposes, driven by my passion for meticulous attention to detail and my commitment to transparent communication.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I value authenticity, personal growth, and meaningful connections. 
+This site is a reflection of my journey and an opportunity to share a part of my world with you. 
+Thank you for visiting, and I hope you find inspiration, insight, or a spark of curiosity as you explore.

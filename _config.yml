@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Johnny's Personal Website
+title: Johnny To
 description: >- # this means to ignore newlines until "baseurl:"
-  This site serves to provide information that is directly shared solely by me.
-  Hopefully it showcases my character and the values I believe in.
+  Personal Website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  tojohnny
