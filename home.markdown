@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Home
+nav_order: 0
+permalink: /home/
 ---
 Welcome to my personal website.
 This site is solely owned and operated by me, Johnny.
