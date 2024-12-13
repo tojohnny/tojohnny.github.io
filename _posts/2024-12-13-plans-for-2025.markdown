@@ -11,34 +11,34 @@ Have you made any plans for 2025 yet?
 
 I've started brainstorming several projects I'd like to tackle in the new year. Here are a few topics that
 have recently caught my interest:
-	- Digital footprints
-	- Online privacy
-	- Decentralization
-	- Open-source projects
-	- Automation
-	- Home Lab
+* **Digital footprints**
+* **Online privacy**
+* **Decentralization**
+* **Open-source projects**
+* **Automation**
+* **Home Lab**
 
 I've only begun researching each of these topics, but I've already made some progress on online privacy
 and home lab. Here's what I have planned so far:
 
-Online Privacy
+## Online Privacy
 
 I'm exploring the following products and services to enhance my privacy:
-	- Proton Mail
-		- Paired with SimpleLogin.io for managing different aliases.
-		- Integrated with a custom domain for added control.
-		- This setup will replace my current system of using multiple emails for separate categories.
-		- The goal is to simplify and streamline my email management.
-	- Proton VPN
-		- I previously used PIA but stopped due to persistent issues.
-		- I'm considering WireGuard and setting up a home VPN as well - though I'll need to research this further.
-	- Proton Drive
-		- This will replace Microsoft OneDrive.
-		- I'm also considering a self-hosted option using NextCloud Home Server.
-	- Proton Calendar
-		- This will replace Google Calendar.
+* **Proton Mail**
+	* Paired with SimpleLogin.io for managing different aliases.
+	* Integrated with a custom domain for added control.
+	* This setup will replace my current system of using multiple emails for separate categories.
+	* The goal is to simplify and streamline my email management.
+* **Proton VPN**
+	* I previously used PIA but stopped due to persistent issues.
+	* I'm considering WireGuard and setting up a home VPN as well - though I'll need to research this further.
+* **Proton Drive**
+	* This will replace Microsoft OneDrive.
+	* I'm also considering a self-hosted option using NextCloud Home Server.
+* **Proton Calendar**
+	* This will replace Google Calendar.
 
-Home Lab
+## Home Lab
 
 I've decided to repurpose my old Lenovo ThinkPad T450s to experiment with a home lab setup. It's been sitting unused, so this feels like
 the perfect opportunity to put it to good use.
